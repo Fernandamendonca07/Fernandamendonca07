@@ -1,4 +1,5 @@
-<img align="left" src="https://github.com/Isaglr/Isaglr/assets/146981978/5d2afe20-dd8d-446a-a655-ae14883891d2" width="370px" height="420px">
+<img align="left" src="https://github.com/Fernandamendonca07/Fernandamendonca07/assets/146982205/49170142-694a-4967-b2f3-4e9203c00dd2"
+ width="370px" height="420px">
 
 ## Olá, Mundo! Estou fazendo curso de Programação Web Full-Stack no Instituto da Oportunidade Social
 
